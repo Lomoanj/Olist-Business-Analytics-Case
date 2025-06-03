@@ -83,7 +83,7 @@ where ï»¿product_category_name='pet_shop';
 
 - **Sales Growth**: 2018 accounted for **~65%** of total profit.  
 - **High-Performing Categories**: *Health & Beauty*, *Watches & Gifts*, *Bed & Bath* lead in sales.  
-- **Delivery Performance**: Most deliveries with review score '5' took **21 days**, while '1' scores took just **11 days** — indicating potential customer dissatisfaction despite faster delivery.  
+- **Delivery Performance**: Most deliveries with a review score of **5** took just **11 days**, while those with a score of **1** took **21 days** — suggesting that **faster delivery** may be linked to **higher customer satisfaction**.  
 - **Top Locations**: Sao Paulo (SP) leads with **10.2M** in sales.  
 - **Review-Based Insights**: 43.98K credit card orders received a perfect review score of 5.
 
